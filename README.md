@@ -20,6 +20,8 @@ If it's zero, an error message is printed. Otherwise, the division is performed.
 Return statement: main returns 0 to indicate successful program execution.
 Running the program on Ubuntu using Terminal:
 
+steps to clone: git clone 
+
 Open Terminal: Press Ctrl+Alt+T or search for "Terminal" in the Applications menu.
 
 Navigate to the directory: Use the cd command to navigate to the directory where you saved the C program file (e.g., cd Desktop).
