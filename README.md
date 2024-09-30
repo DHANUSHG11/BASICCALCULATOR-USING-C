@@ -20,7 +20,7 @@ If it's zero, an error message is printed. Otherwise, the division is performed.
 Return statement: main returns 0 to indicate successful program execution.
 Running the program on Ubuntu using Terminal:
 
-steps to clone: git clone 
+steps to clone: git clone https://github.com/DHANUSHG11/BASICCALCULATOR-USING-C.git
 
 Open Terminal: Press Ctrl+Alt+T or search for "Terminal" in the Applications menu.
 
